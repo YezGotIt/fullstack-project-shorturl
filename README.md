@@ -11,7 +11,7 @@ Password: 123456
 Before you start, make sure you have these accounts:
 1. [GitHub account](https://github.com/login)
 2. [Render account](https://dashboard.render.com/)
-3. [MongoDB ](https://account.mongodb.com/account/login)
+3. [MongoDB ](https://account.mongodb.com/account/login) or [MongoDB Community Server Download ](https://www.mongodb.com/try/download/community)
 
 Important:
 
@@ -48,6 +48,10 @@ npm install                         # Install dependencies
 
 npm start                           # Start the server
 ```
+
+### **You can also watch here!**
+
+[![image](https://i9.ytimg.com/vi_webp/By2blQ4Bopo/maxresdefault.webp)](https://youtu.be/By2blQ4Bopo)
 
 
 
