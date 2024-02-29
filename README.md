@@ -11,7 +11,7 @@ Password: 123456
 Before you start, make sure you have these accounts:
 1. [GitHub account](https://github.com/login)
 2. [Render account](https://dashboard.render.com/)
-3. [MongoDB ](https://account.mongodb.com/account/login) or [MongoDB Community Server Download ](https://www.mongodb.com/try/download/community)
+3. [MongoDB Atlas ](https://account.mongodb.com/account/login) or [MongoDB Community Server Download ](https://www.mongodb.com/try/download/community)
 
 Important:
 
