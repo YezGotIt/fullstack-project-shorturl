@@ -51,8 +51,6 @@ npm start                           # Start the server
 
 ### **You can also watch here!**
 
-[![image](https://i9.ytimg.com/vi_webp/By2blQ4Bopo/maxresdefault.webp)](https://youtu.be/By2blQ4Bopo)
-
-
+[![image](https://i.ytimg.com/vi/By2blQ4Bopo/maxresdefault.jpg)](https://youtu.be/By2blQ4Bopo)
 
 ---
